@@ -1,0 +1,8 @@
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/imgtxtenh.dir
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/realclean.dir
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/edit_cache.dir
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/rebuild_cache.dir
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/list_install_components.dir
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/install.dir
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/install/local.dir
+/home/alumno.upv.es/dtorber/Escritorio/RES/Rodrigo/imgtxtenh/CMakeFiles/install/strip.dir
