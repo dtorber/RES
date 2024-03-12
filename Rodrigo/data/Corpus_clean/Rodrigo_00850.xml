@@ -1,21 +1,13 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-	<Metadata>
-		<Creator>Moises Pastor </Creator>
-		<Created>2018-02-13</Created>
-		<LastChange>2018-02-13T15:51:52</LastChange>
-	</Metadata>
-	<Page imageFilename="Rodrigo_00850.jpg" imageWidth="911" imageHeight="1375">
-		<TextRegion id="r0">
-			<Coords points="0,0 910,0 910,1374 0,1374" />
-			<TextLine id="r0_l00">
-				<Coords points="" />
-				<Baseline points="223,62 265,139 343,129 409,95 447,176 527,193 596,210 671,160 746,111 828,65" />
-			</TextLine>
-			<TextLine id="r0_l01">
-				<Coords points="" />
-				<Baseline points="48,1370 59,1366 193,1361 368,1284 667,1361 683,1362 698,1369" />
-			</TextLine>
-		</TextRegion>
-	</Page>
+    <Metadata>
+        <Creator>Moises Pastor </Creator>
+        <Created>2018-02-13</Created>
+        <LastChange>2024-03-12T16:45:45</LastChange>
+    </Metadata>
+    <Page imageFilename="Rodrigo_00850.jpg" imageWidth="911" imageHeight="1375">
+        <TextRegion id="r0">
+            <Coords points="0,0 910,0 910,1374 0,1374"/>
+        </TextRegion>
+    </Page>
 </PcGts>
